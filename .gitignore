@@ -1,0 +1,10 @@
+# Terraform files
+*.tfstate
+# *.tfstate.*
+*.tfplan
+crash.log
+*.tfstate.backup
+.terraform/
+
+# Terragrunt files
+.terragrunt-cache/
